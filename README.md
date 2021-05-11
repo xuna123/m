@@ -4,7 +4,7 @@
 
 A High-level Scorecard Modeling API | 评分卡建模尽在于此
 
-**Documentation page** | **文档页面**：**https://scorecard-bundle.bubu.blue/**
+**Documentation page** | **文档页面**：**https://xuna123.github.io/m/**
 
 
 
