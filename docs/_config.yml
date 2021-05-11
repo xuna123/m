@@ -1,6 +1,7 @@
-title: Your project name
+  
+title: Scorecard-Bundle
 lang: en
-description: a catchy description for your project
+description: An High-level Scorecard Modeling API
 
 remote_theme: rundocs/jekyll-rtd-theme
 
