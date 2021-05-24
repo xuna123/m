@@ -9,7 +9,7 @@ sort: 1
 
 - [一、需求&现状](https://scorecard-bundle.bubu.blue/Chinese/1.intro.html)
 
-- [二、理论大纲](https://scorecard-bundle.bubu.blue/Chinese/2.usage.html)
+- [二、理论大纲](https://scorecard-bundle.bubu.blue/Chinese/2.usage.html#理论大纲)
     - [2.1 辅助功能模块 ](https://scorecard-bundle.bubu.blue/Chinese/2.usage.html#辅助功能模块)
     - [2.2 机器交互模块](https://scorecard-bundle.bubu.blue/Chinese/2.usage.html#机器交互模块)
     - [2.3 文件分析模块](https://scorecard-bundle.bubu.blue/Chinese/2.usage.html#文件分析模块)
