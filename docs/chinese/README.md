@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 主要内容
+# 中文文档
 
 {% include list.liquid %}
 
